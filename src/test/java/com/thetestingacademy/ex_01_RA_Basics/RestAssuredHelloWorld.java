@@ -1,8 +1,6 @@
-package com.thetestingacademy;
+package com.thetestingacademy.ex_01_RA_Basics;
 
 import io.restassured.RestAssured;
-
-import static io.restassured.RestAssured.when;
 
 public class RestAssuredHelloWorld {
     public static void main(String[] args) {
